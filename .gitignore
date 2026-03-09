@@ -1,0 +1,16 @@
+# 1. The Generative Engine (The 11GB Monster)
+stable-diffusion-webui/
+ngrok.exe
+
+# 2. Backend Environment and Secrets
+backend/venv/
+backend/__pycache__/
+backend/.env
+
+# 3. Frontend Heavy Dependencies
+frontend/node_modules/
+frontend/dist/
+
+# 4. OS Junk Files
+.DS_Store
+Thumbs.db
