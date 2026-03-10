@@ -1,4 +1,4 @@
-#### The Daily Startup Guide
+#### The Daily Startup Guide (Start Fresh Daily)
 
 Whenever you want to run your app from a cold start, follow this sequence to get all four layers talking to each other again:
 
